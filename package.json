@@ -8,13 +8,13 @@
     "test": "grunt test",
     "release": "sh ./scripts/release.sh"
   },
-  "homepage": "http://github.com/seiyria/bootstrap-slider",
+  "homepage": "http://github.com/kumparan/bootstrap-slider",
   "repository": {
     "type": "git",
-    "url": "git://github.com/seiyria/bootstrap-slider.git"
+    "url": "git://github.com/kumparan/bootstrap-slider.git"
   },
   "bugs": {
-    "url": "http://github.com/seiyria/bootstrap-slider/issues"
+    "url": "http://github.com/kumparan/bootstrap-slider/issues"
   },
   "author": "bootstrap-slider ",
   "contributors": [
